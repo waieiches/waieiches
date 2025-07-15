@@ -45,8 +45,8 @@ Here are some ideas to get you started:
 ## ⚡ Stat
 <div style="display: flex; justify-content: center; gap: 16px; align-items: center;">
   <!-- GitHub 통계 전체 -->
-  <a href="https://github.com/waieiches">
-    <img src="https://github-readme-stats.vercel.app/api?username=waieiches&show_icons=true&theme=github_dark&count_private=true" alt="GitHub stats"/>
+  <!-- <a href="https://github.com/waieiches"> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=waieiches&show_icons=true&theme=github_dark&count_private=true" alt="GitHub stats"/>  -->
   </a>
   <!-- 가장 많이 사용한 언어(상위 5개) -->
   <a href="https://github.com/waieiches">
