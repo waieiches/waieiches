@@ -44,6 +44,7 @@ Here are some ideas to get you started:
 
 ## ⚡ Stat
 <div style="display: flex; justify-content: middle; gap: 16px; align-items: middle;">
+  <p align="middle">
   <!-- GitHub 통계 전체 -->
   <!-- <a href="https://github.com/waieiches"> -->
   <!-- <img src="https://github-readme-stats.vercel.app/api?username=waieiches&show_icons=true&theme=github_dark&count_private=true" alt="GitHub stats"/>  -->
@@ -52,4 +53,5 @@ Here are some ideas to get you started:
   <a href="https://github.com/waieiches">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waieiches&layout=compact&theme=github_dark" alt="Top Langs"/>
   </a>
+  </p>
 </div>
