@@ -4,7 +4,7 @@
   <h1>Hello, I'm <strong>Hyeonseo Yu</strong></h1>
 
   <!-- 간단한 한 줄 소개 -->
-<p>🎓 IT Engineering · Bigdata | Senior 🎓</p> 
+<p>🎓 IT Engineering · Bigdata 🎓</p> 
 
 </div><!--
 **waieiches/waieiches** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
